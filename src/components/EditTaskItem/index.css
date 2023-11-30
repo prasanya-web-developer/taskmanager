@@ -1,0 +1,15 @@
+.edit-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.edit-icon {
+  height: 40px;
+  background-color: transparent;
+}
+
+.list-of-task-container {
+  margin-right: 30px;
+}
